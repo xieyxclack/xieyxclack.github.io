@@ -1,20 +1,21 @@
+
 # Yuexiang XIE
 Alibaba Group  
 Email: yuexiang.xyx@alibaba-inc.com
 
-</br>
-Education
+
+### Education
 
 + MA, 2017 - 2020, Computer Application Technology, Peking University. 
 + BA, 2013 - 2017, Soft Engineering, Sun Yat-sen University.
 
-</br>
-Work Experiences
+
+### Work Experiences
 
 + July 2020 - Now, Alibaba DAMO Academy, HangZhou.
 
-</br>
-Publication
+
+### Publication
 
 + **Yuexiang Xie***, Zhen Wang*, Yaliang, Li, Bolin Ding, Nezihe Merve Gürel, Ce Zhang, Minlie Huang, Wei Lin, Jingren Zhou. *FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data.* In KDD, 2021.
 + Yang Deng*, **Yuexiang Xie***, Yaliang Li, Min Yang, Wai Lam, Ying Shen. *Contextualized Knowledge-aware Attentive Neural Network: Enhancing Answer Selection with Knowledge.* In TOIS, 2021.
@@ -25,8 +26,8 @@ Publication
 + Kai Lei, Jin Zhang, **Yuexiang Xie**, Desi Wen, Daoyuan Chen, Min Yang, Ying Shen. *Path-based Reasoning with Constrained Type Attention for Knowledge Graph Completion.* In Neural Computing and Application, 2019.
 + Jingchao Dai, Kaiqi Yuan, **Yuexiang Xie**, Ying Shen. *Feature-Aware Attentive Convolutional Neural Network for Sequence Processing.* In KSEM, 2019.
 
-</br>
-Awards & Scholarships
+
+### Awards & Scholarships
 
 + KDD Cup, AutoML Track, 4/149, May 2020.
 + National Scholarship, Sep 2014.
