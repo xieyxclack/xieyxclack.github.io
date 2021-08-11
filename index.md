@@ -24,3 +24,9 @@ Publication
 + Kai Lei, **Yuexiang Xie**, Shangru Zhong, Jingchao Dai, Min Yang, Ying Shen. *Generative Adversarial Fusion Network for Class Imbalance Credit Scoring.* In Neural Computing and Application, 2019.
 + Kai Lei, Jin Zhang, **Yuexiang Xie**, Desi Wen, Daoyuan Chen, Min Yang, Ying Shen. *Path-based Reasoning with Constrained Type Attention for Knowledge Graph Completion.* In Neural Computing and Application, 2019.
 + Jingchao Dai, Kaiqi Yuan, **Yuexiang Xie**, Ying Shen. *Feature-Aware Attentive Convolutional Neural Network for Sequence Processing.* In KSEM, 2019.
+
+</br>
+Awards & Scholarships
+
++ KDD Cup, AutoML Track, 4/149, May 2020.
++ National Scholarship, Sep 2014.
