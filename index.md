@@ -13,7 +13,7 @@ Email: yuexiang.xyx@alibaba-inc.com
 
 ### Work Experiences
 
-+ July 2020 - Now, Alibaba DAMO Academy, HangZhou.
++ July 2020 - Now, Alibaba DAMO Academy, Hang Zhou.
 
 
 ### Publication
