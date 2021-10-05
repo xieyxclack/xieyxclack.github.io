@@ -18,6 +18,7 @@ Email: yuexiang.xyx@alibaba-inc.com
 
 ### Publication
 
++ **Yuexiang Xie**, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding. *Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation.* In EMNLP, 2021.
 + **Yuexiang Xie\***, Zhen Wang\*, Yaliang, Li, Bolin Ding, Nezihe Merve Gürel, Ce Zhang, Minlie Huang, Wei Lin, Jingren Zhou. *FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data.* In KDD, 2021.
 + Yang Deng\*, **Yuexiang Xie\***, Yaliang Li, Min Yang, Wai Lam, Ying Shen. *Contextualized Knowledge-aware Attentive Neural Network: Enhancing Answer Selection with Knowledge.* In TOIS, 2021.
 + **Yuexiang Xie**, Ying Shen, Yaliang Li, Min Yang, Kai Lei. *Attentive User-Engaged Adversarial Neural Network for Community Question Answering.* In AAAI, 2020.
