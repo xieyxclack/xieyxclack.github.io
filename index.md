@@ -18,6 +18,7 @@ Email: yuexiang.xyx@alibaba-inc.com
 
 ### Publication
 
++ Yaliang Li, Zhen Wang, **Yuexiang Xie**, Bolin Ding, Kai Zeng, Ce Zhang. *AutoML: From Methodology to Application.* In CIKM Tutorial, 2021.
 + **Yuexiang Xie**, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding. *Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation.* In EMNLP, 2021.
 + **Yuexiang Xie\***, Zhen Wang\*, Yaliang, Li, Bolin Ding, Nezihe Merve Gürel, Ce Zhang, Minlie Huang, Wei Lin, Jingren Zhou. *FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data.* In KDD, 2021.
 + Yang Deng\*, **Yuexiang Xie\***, Yaliang Li, Min Yang, Wai Lam, Ying Shen. *Contextualized Knowledge-aware Attentive Neural Network: Enhancing Answer Selection with Knowledge.* In TOIS, 2021.
