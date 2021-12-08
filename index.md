@@ -18,16 +18,16 @@ Email: yuexiang.xyx@alibaba-inc.com
 
 ### Publication
 
-+ Yaliang Li, Zhen Wang, **Yuexiang Xie**, Bolin Ding, Kai Zeng, Ce Zhang. *AutoML: From Methodology to Application.* In CIKM Tutorial, 2021.
-+ **Yuexiang Xie**, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding. *Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation.* In EMNLP, 2021.
-+ **Yuexiang Xie\***, Zhen Wang\*, Yaliang, Li, Bolin Ding, Nezihe Merve Gürel, Ce Zhang, Minlie Huang, Wei Lin, Jingren Zhou. *FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data.* In KDD, 2021.
-+ Yang Deng\*, **Yuexiang Xie\***, Yaliang Li, Min Yang, Wai Lam, Ying Shen. *Contextualized Knowledge-aware Attentive Neural Network: Enhancing Answer Selection with Knowledge.* In TOIS, 2021.
-+ **Yuexiang Xie**, Ying Shen, Yaliang Li, Min Yang, Kai Lei. *Attentive User-Engaged Adversarial Neural Network for Community Question Answering.* In AAAI, 2020.
-+ Yang Deng, Wai Lam, **Yuexiang Xie**, Daoyuan Chen, Yaliang Li, Min Yang, Ying Shen. *Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering.* In AAAI, 2020.
-+ Yang Deng, **Yuexiang Xie**, Yaliang Li, Min Yang, Nan Du, Wei Fan, Kai Lei, Ying Shen. *Multi-task Learning with Multi-view Attention for Answer Selection and Knowledge Base Question Answering.* In AAAI, 2019.
-+ Kai Lei, **Yuexiang Xie**, Shangru Zhong, Jingchao Dai, Min Yang, Ying Shen. *Generative Adversarial Fusion Network for Class Imbalance Credit Scoring.* In Neural Computing and Application, 2019.
-+ Kai Lei, Jin Zhang, **Yuexiang Xie**, Desi Wen, Daoyuan Chen, Min Yang, Ying Shen. *Path-based Reasoning with Constrained Type Attention for Knowledge Graph Completion.* In Neural Computing and Application, 2019.
-+ Jingchao Dai, Kaiqi Yuan, **Yuexiang Xie**, Ying Shen. *Feature-Aware Attentive Convolutional Neural Network for Sequence Processing.* In KSEM, 2019.
++ Yaliang Li, Zhen Wang, **Yuexiang Xie**, Bolin Ding, Kai Zeng, Ce Zhang. *AutoML: From Methodology to Application.* In CIKM Tutorial, 2021. [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3483279)]
++ **Yuexiang Xie**, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding. *Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation.* In EMNLP, 2021. [[paper](https://aclanthology.org/2021.findings-emnlp.10/), [code](https://github.com/xieyxclack/factual_coco)]
++ **Yuexiang Xie\***, Zhen Wang\*, Yaliang, Li, Bolin Ding, Nezihe Merve Gürel, Ce Zhang, Minlie Huang, Wei Lin, Jingren Zhou. *FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data.* In KDD, 2021. [[paper](https://arxiv.org/abs/2007.14573)]
++ Yang Deng\*, **Yuexiang Xie\***, Yaliang Li, Min Yang, Wai Lam, Ying Shen. *Contextualized Knowledge-aware Attentive Neural Network: Enhancing Answer Selection with Knowledge.* In TOIS, 2021. [[paper](https://arxiv.org/abs/2104.05216)]
++ **Yuexiang Xie**, Ying Shen, Yaliang Li, Min Yang, Kai Lei. *Attentive User-Engaged Adversarial Neural Network for Community Question Answering.* In AAAI, 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6472)]
++ Yang Deng, Wai Lam, **Yuexiang Xie**, Daoyuan Chen, Yaliang Li, Min Yang, Ying Shen. *Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering.* In AAAI, 2020. [[paper](https://arxiv.org/abs/1911.09801)]
++ Yang Deng, **Yuexiang Xie**, Yaliang Li, Min Yang, Nan Du, Wei Fan, Kai Lei, Ying Shen. *Multi-task Learning with Multi-view Attention for Answer Selection and Knowledge Base Question Answering.* In AAAI, 2019. [[paper](https://arxiv.org/abs/1812.02354)]
++ Kai Lei, **Yuexiang Xie**, Shangru Zhong, Jingchao Dai, Min Yang, Ying Shen. *Generative Adversarial Fusion Network for Class Imbalance Credit Scoring.* In Neural Computing and Application, 2019. [[paper](https://link.springer.com/article/10.1007/s00521-019-04335-1)]
++ Kai Lei, Jin Zhang, **Yuexiang Xie**, Desi Wen, Daoyuan Chen, Min Yang, Ying Shen. *Path-based Reasoning with Constrained Type Attention for Knowledge Graph Completion.* In Neural Computing and Application, 2019. [[paper](https://link.springer.com/article/10.1007/s00521-019-04181-1)]
++ Jingchao Dai, Kaiqi Yuan, **Yuexiang Xie**, Ying Shen. *Feature-Aware Attentive Convolutional Neural Network for Sequence Processing.* In KSEM, 2019. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-29563-9_28)]
 
 
 ### Awards & Scholarships
