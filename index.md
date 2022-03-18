@@ -18,7 +18,7 @@ Email: yuexiang.xyx@alibaba-inc.com
 
 ### Publication
 
-+ Yuexiang Xie, Zhen Wang, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding. *iFlood: A Stable and Effective Regularizer.* In ICLR, 2022. [[paper](https://openreview.net/forum?id=MsHnJPaBUZE)]
++ **Yuexiang Xie**, Zhen Wang, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding. *iFlood: A Stable and Effective Regularizer.* In ICLR, 2022. [[paper](https://openreview.net/forum?id=MsHnJPaBUZE)]
 + Yaliang Li, Zhen Wang, **Yuexiang Xie**, Bolin Ding, Kai Zeng, Ce Zhang. *AutoML: From Methodology to Application.* In CIKM Tutorial, 2021. [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3483279)]
 + **Yuexiang Xie**, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding. *Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation.* In EMNLP, 2021. [[paper](https://aclanthology.org/2021.findings-emnlp.10/), [code](https://github.com/xieyxclack/factual_coco)]
 + **Yuexiang Xie\***, Zhen Wang\*, Yaliang, Li, Bolin Ding, Nezihe Merve Gürel, Ce Zhang, Minlie Huang, Wei Lin, Jingren Zhou. *FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data.* In KDD, 2021. [[paper](https://arxiv.org/abs/2007.14573)]
