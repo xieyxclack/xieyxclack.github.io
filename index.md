@@ -19,17 +19,17 @@ Email: yuexiang.xyx@alibaba-inc.com
 ### Publications
 
 #### 2022
-+ **Yuexiang Xie**, Zhen Wang, Daoyuan Chen, Dawei Gao, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://arxiv.org/abs/2204.05011). *arXiv, 2022*. [[code](https://github.com/alibaba/FederatedScope)]    
-+ Zhen Wang, Weirui Kuang, **Yuexiang Xie**, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. [FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning](https://arxiv.org/abs/2204.05562). *arXiv, 2022*. [[code](https://github.com/alibaba/FederatedScope/tree/master/federatedscope/gfl)]  
++ **Yuexiang Xie\***, Zhen Wang\*, Daoyuan Chen, Dawei Gao, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://arxiv.org/abs/2204.05011). *arXiv, 2022*. [[code](https://github.com/alibaba/FederatedScope)]  
++ **Yuexiang Xie**, Zhen Wang, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding. [iFlood: A Stable and Effective Regularizer](https://openreview.net/forum?id=MsHnJPaBUZE). *In ICLR, 2022*.    
 + Changxin Tian, **Yuexiang Xie**, Yaliang Li, Nan Yang, Wayne Xin Zhao. Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering. *In SIGIR, 2022*.  
 + Shaoyun Shi, **Yuexiang Xie**, Zhen Wang, Bolin Ding, Yaliang Li, Min Zhang. [Explainable Neural Rule Learning](https://dl.acm.org/doi/fullHtml/10.1145/3485447.3512023). *In WWW, 2022*. [[code](https://github.com/Shuriken13/ENRL)]  
-+ **Yuexiang Xie**, Zhen Wang, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding. [iFlood: A Stable and Effective Regularizer](https://openreview.net/forum?id=MsHnJPaBUZE). *In ICLR, 2022*.  
++ Zhen Wang, Weirui Kuang, **Yuexiang Xie**, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. [FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning](https://arxiv.org/abs/2204.05562). *In KDD, 2022*. [[code](https://github.com/alibaba/FederatedScope/tree/master/federatedscope/gfl)]  
 
 #### 2021
-+ Yaliang Li, Zhen Wang, **Yuexiang Xie**, Bolin Ding, Kai Zeng, Ce Zhang. [AutoML: From Methodology to Application](https://dl.acm.org/doi/abs/10.1145/3459637.3483279). *In CIKM Tutorial, 2021*.  
 + **Yuexiang Xie**, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding. [Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation](https://aclanthology.org/2021.findings-emnlp.10/). *In EMNLP, 2021*. [[code](https://github.com/xieyxclack/factual_coco)]  
 + **Yuexiang Xie\***, Zhen Wang\*, Yaliang, Li, Bolin Ding, Nezihe Merve Gürel, Ce Zhang, Minlie Huang, Wei Lin, Jingren Zhou. [FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data](https://arxiv.org/abs/2007.14573). *In KDD, 2021*.  
 + Yang Deng\*, **Yuexiang Xie\***, Yaliang Li, Min Yang, Wai Lam, Ying Shen. [Contextualized Knowledge-aware Attentive Neural Network: Enhancing Answer Selection with Knowledge](https://arxiv.org/abs/2104.05216). *In TOIS, 2021*.  
++ Yaliang Li, Zhen Wang, **Yuexiang Xie**, Bolin Ding, Kai Zeng, Ce Zhang. [AutoML: From Methodology to Application](https://dl.acm.org/doi/abs/10.1145/3459637.3483279). *In CIKM Tutorial, 2021*.  
 
 #### 2020
 + **Yuexiang Xie**, Ying Shen, Yaliang Li, Min Yang, Kai Lei. [Attentive User-Engaged Adversarial Neural Network for Community Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/6472). *In AAAI, 2020*.  
