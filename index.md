@@ -25,6 +25,7 @@ Email: yuexiang.xyx@alibaba-inc.com
 + Changxin Tian, **Yuexiang Xie**, Yaliang Li, Nan Yang, Wayne Xin Zhao. Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering. *In SIGIR, 2022*.  
 + Shaoyun Shi, **Yuexiang Xie**, Zhen Wang, Bolin Ding, Yaliang Li, Min Zhang. [Explainable Neural Rule Learning](https://dl.acm.org/doi/fullHtml/10.1145/3485447.3512023). *In WWW, 2022*. [[code](https://github.com/Shuriken13/ENRL)]  
 + Zhen Wang, Weirui Kuang, **Yuexiang Xie**, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. [FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning](https://arxiv.org/abs/2204.05562). *In KDD, 2022*. [[code](https://github.com/alibaba/FederatedScope/tree/master/federatedscope/gfl)]  
++ Liuyi Yao, Dawei Gao, Zhen Wang, **Yuexiang Xie**, Weirui Kuang, Daoyuan Chen, Haohui Wang, Chenhe Dong, Bolin Ding, Yaliang Li. [A Benchmark for Federated Hetero-Task Learning](https://arxiv.org/abs/2206.03436). *arXiv, 2022*. [[code](https://github.com/alibaba/FederatedScope/tree/master/benchmark/B-FHTL)]  
 
 #### 2021
 + **Yuexiang Xie**, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding. [Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation](https://aclanthology.org/2021.findings-emnlp.10/). *In EMNLP, 2021*. [[code](https://github.com/xieyxclack/factual_coco)]  
