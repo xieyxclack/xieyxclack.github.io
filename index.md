@@ -8,7 +8,7 @@ Email: yuexiang.xyx@alibaba-inc.com
 ### Education
 
 + MA, 2017 - 2020, Computer Application Technology, Peking University. 
-+ BA, 2013 - 2017, Soft Engineering, Sun Yat-sen University.
++ BA, 2013 - 2017, Software Engineering, Sun Yat-sen University.
 
 
 ### Work Experiences
