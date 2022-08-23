@@ -16,7 +16,8 @@ Email: yuexiang.xyx@alibaba-inc.com
 + July 2020 - Now, Alibaba DAMO Academy, Hang Zhou.
 
 
-### Publications ([google scholar](https://scholar.google.com.hk/citations?user=fhWk0gEAAAAJ&hl=zh-CN))
+### Publications  
+|[google scholar](https://scholar.google.com.hk/citations?user=fhWk0gEAAAAJ&hl=zh-CN) | [dblp](https://dblp.org/pid/232/2045.html)|
 
 #### 2022
 + **Yuexiang Xie\***, Zhen Wang\*, Daoyuan Chen, Dawei Gao, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://arxiv.org/abs/2204.05011). *arXiv, 2022*. [[code](https://github.com/alibaba/FederatedScope)]  
