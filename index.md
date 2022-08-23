@@ -7,8 +7,8 @@ Email: yuexiang.xyx@alibaba-inc.com
 
 ### Education
 
-+ MA, 2017 - 2020, Computer Application Technology, Peking University. 
-+ BA, 2013 - 2017, Software Engineering, Sun Yat-sen University.
++ M.S., 2017 - 2020, Computer Application Technology, Peking University. 
++ B.S., 2013 - 2017, Software Engineering, Sun Yat-sen University.
 
 
 ### Work Experiences
@@ -16,7 +16,7 @@ Email: yuexiang.xyx@alibaba-inc.com
 + July 2020 - Now, Alibaba DAMO Academy, Hang Zhou.
 
 
-### Publications
+### Publications ([google scholar](https://scholar.google.com.hk/citations?user=fhWk0gEAAAAJ&hl=zh-CN))
 
 #### 2022
 + **Yuexiang Xie\***, Zhen Wang\*, Daoyuan Chen, Dawei Gao, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://arxiv.org/abs/2204.05011). *arXiv, 2022*. [[code](https://github.com/alibaba/FederatedScope)]  
@@ -24,14 +24,15 @@ Email: yuexiang.xyx@alibaba-inc.com
 + Dawei Gao, **Yuexiang Xie**, Zimu Zhou, Zhen Wang, Yaliang Li, Bolin Ding. [Finding Meta Winning Ticket to Train Your MAML](https://dl.acm.org/doi/10.1145/3534678.3539467). *In KDD, 2022*.
 + Changxin Tian, **Yuexiang Xie**, Yaliang Li, Nan Yang, Wayne Xin Zhao. [Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3477495.3531889). *In SIGIR, 2022*.  
 + Shaoyun Shi, **Yuexiang Xie**, Zhen Wang, Bolin Ding, Yaliang Li, Min Zhang. [Explainable Neural Rule Learning](https://dl.acm.org/doi/fullHtml/10.1145/3485447.3512023). *In WWW, 2022*. [[code](https://github.com/Shuriken13/ENRL)]  
-+ Zhen Wang, Weirui Kuang, **Yuexiang Xie**, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. [FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning](https://arxiv.org/abs/2204.05562). *In KDD, 2022*. [[code](https://github.com/alibaba/FederatedScope/tree/master/federatedscope/gfl)]  
++ Zhen Wang, Weirui Kuang, **Yuexiang Xie**, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. [FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning](https://arxiv.org/abs/2204.05562). *In KDD, 2022, **Best Paper Award at Applied Data Science Track***. [[code](https://github.com/alibaba/FederatedScope/tree/master/federatedscope/gfl)]  
++ Yaliang Li, Bolin Ding, Zhen Wang, **Yuexiang Xie**, Dawei Gao, Liuyi Yao, Daoyuan Chen, Weirui Kuang, Hongzhu Shi, Jingren Zhou. A Practical Introduction to Federated Learning. *In KDD 2022 Tutorial*. [[website](https://joneswong.github.io/KDD22FLTutorial/)]
 + Liuyi Yao, Dawei Gao, Zhen Wang, **Yuexiang Xie**, Weirui Kuang, Daoyuan Chen, Haohui Wang, Chenhe Dong, Bolin Ding, Yaliang Li. [A Benchmark for Federated Hetero-Task Learning](https://arxiv.org/abs/2206.03436). *arXiv, 2022*. [[code](https://github.com/alibaba/FederatedScope/tree/master/benchmark/B-FHTL)]  
 
 #### 2021
 + **Yuexiang Xie**, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding. [Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation](https://aclanthology.org/2021.findings-emnlp.10/). *In EMNLP, 2021*. [[code](https://github.com/xieyxclack/factual_coco)]  
 + **Yuexiang Xie\***, Zhen Wang\*, Yaliang, Li, Bolin Ding, Nezihe Merve Gürel, Ce Zhang, Minlie Huang, Wei Lin, Jingren Zhou. [FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data](https://arxiv.org/abs/2007.14573). *In KDD, 2021*.  
 + Yang Deng\*, **Yuexiang Xie\***, Yaliang Li, Min Yang, Wai Lam, Ying Shen. [Contextualized Knowledge-aware Attentive Neural Network: Enhancing Answer Selection with Knowledge](https://arxiv.org/abs/2104.05216). *In TOIS, 2021*.  
-+ Yaliang Li, Zhen Wang, **Yuexiang Xie**, Bolin Ding, Kai Zeng, Ce Zhang. [AutoML: From Methodology to Application](https://dl.acm.org/doi/abs/10.1145/3459637.3483279). *In CIKM Tutorial, 2021*.  
++ Yaliang Li, Zhen Wang, **Yuexiang Xie**, Bolin Ding, Kai Zeng, Ce Zhang. [AutoML: From Methodology to Application](https://dl.acm.org/doi/abs/10.1145/3459637.3483279). *In CIKM Tutorial, 2021*. [[website](https://www.cikm2021.org/programme/tutorials/automl-from-methodology-to-application)]  
 
 #### 2020
 + **Yuexiang Xie**, Ying Shen, Yaliang Li, Min Yang, Kai Lei. [Attentive User-Engaged Adversarial Neural Network for Community Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/6472). *In AAAI, 2020*.  
