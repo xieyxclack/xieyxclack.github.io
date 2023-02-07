@@ -19,9 +19,12 @@ Email: yuexiang.xyx@alibaba-inc.com
 ### Publications  
 |[google scholar](https://scholar.google.com.hk/citations?user=fhWk0gEAAAAJ&hl=zh-CN) | [dblp](https://dblp.org/pid/232/2045.html)|
 
+#### 2023
++ **Yuexiang Xie\***, Zhen Wang\*, Daoyuan Chen, Dawei Gao, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://arxiv.org/abs/2204.05011). *VLDB, 2023*. [[code](https://github.com/alibaba/FederatedScope)]
+
 #### 2022
-+ **Yuexiang Xie\***, Zhen Wang\*, Daoyuan Chen, Dawei Gao, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://arxiv.org/abs/2204.05011). *arXiv, 2022*. [[code](https://github.com/alibaba/FederatedScope)]  
-+ **Yuexiang Xie**, Zhen Wang, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding. [iFlood: A Stable and Effective Regularizer](https://openreview.net/forum?id=MsHnJPaBUZE). *In ICLR, 2022*.    
++ **Yuexiang Xie**, Zhen Wang, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding. [iFlood: A Stable and Effective Regularizer](https://openreview.net/forum?id=MsHnJPaBUZE). *In ICLR, 2022*.
++ Chenhe Dong\*, **Yuexiang Xie\***, Bolin Ding, Ying Shen, Yaliang Li. [Collaborating Heterogeneous Natural Language Processing Tasks via Federated Learning](https://arxiv.org/abs/2212.05789). *arXiv, 2022*.
 + Dawei Gao, **Yuexiang Xie**, Zimu Zhou, Zhen Wang, Yaliang Li, Bolin Ding. [Finding Meta Winning Ticket to Train Your MAML](https://dl.acm.org/doi/10.1145/3534678.3539467). *In KDD, 2022*.
 + Changxin Tian, **Yuexiang Xie**, Yaliang Li, Nan Yang, Wayne Xin Zhao. [Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3477495.3531889). *In SIGIR, 2022*.  
 + Shaoyun Shi, **Yuexiang Xie**, Zhen Wang, Bolin Ding, Yaliang Li, Min Zhang. [Explainable Neural Rule Learning](https://dl.acm.org/doi/fullHtml/10.1145/3485447.3512023). *In WWW, 2022*. [[code](https://github.com/Shuriken13/ENRL)]  
