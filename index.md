@@ -20,7 +20,10 @@ Email: yuexiang.xyx@alibaba-inc.com
 |[google scholar](https://scholar.google.com.hk/citations?user=fhWk0gEAAAAJ&hl=zh-CN) | [dblp](https://dblp.org/pid/232/2045.html)|
 
 #### 2023
-+ **Yuexiang Xie\***, Zhen Wang\*, Daoyuan Chen, Dawei Gao, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://arxiv.org/abs/2204.05011). *VLDB, 2023*. [[code](https://github.com/alibaba/FederatedScope)]
++ **Yuexiang Xie\***, Zhen Wang\*, Daoyuan Chen, Dawei Gao, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://arxiv.org/abs/2204.05011). *In VLDB, 2023*. [[code](https://github.com/alibaba/FederatedScope)]
++ Chenhe Dong, **Yuexiang Xie**, Yaliang Li, Ying Shen. [Counterfactual Debiasing for Generating Factually Consistent Text Summaries](https://arxiv.org/pdf/2305.10736.pdf). *arXiv, 2023*.
++ Zishuo Zhao, **Yuexiang Xie**, Jingyou Xie, Zhenzhou Lin, Yaliang Li, Ying Shen. [Source-Free Unsupervised Domain Adaptation for Question Answering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095248). *In ICASSP, 2023*.
++ Daoyuan Chen, Dawei Gao, **Yuexiang Xie**, Xuchen Pan, Zitao Li, Yaliang Li, Bolin Ding, Jingren Zhou. [FS-Real: Towards Real-World Cross-Device Federated Learning](https://arxiv.org/pdf/2303.13363.pdf). *In KDD, 2023*.
 
 #### 2022
 + **Yuexiang Xie**, Zhen Wang, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding. [iFlood: A Stable and Effective Regularizer](https://openreview.net/forum?id=MsHnJPaBUZE). *In ICLR, 2022*.
