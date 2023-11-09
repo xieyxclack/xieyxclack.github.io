@@ -24,6 +24,16 @@ Email: yuexiang.xyx AT alibaba-inc.com
 
 ### Publications ([google scholar](https://scholar.google.com.hk/citations?user=fhWk0gEAAAAJ&hl=zh-CN), [dblp](https://dblp.org/pid/232/2045.html))
 
+[2023]
++ Tunable Soft Prompts are Messengers in Federated Learning
+  + Chenhe Dong\*, **Yuexiang Xie\***, Bolin Ding, Ying Shen, Yaliang Li
+  + *In EMNLP, 2023* 
++ [Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033)
+  + Daoyuan Chen, Yilun Huang, Zhijian Ma, Hesen Chen, Xuchen Pan, Ce Ge, Dawei Gao, **Yuexiang Xie**, Zhaoyang Liu, Jinyang Gao, Yaliang Li, Bolin Ding, Jingren Zhou
+  + *arXiv, 2023* [[code](https://github.com/alibaba/data-juicer)]
++ [FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning](https://arxiv.org/abs/2309.00363)
+  + Weirui Kuang, Bingchen Qian, Zitao Li, Daoyuan Chen, Dawei Gao, Xuchen Pan, **Yuexiang Xie**, Yaliang Li, Bolin Ding, Jingren Zhou
+  + *arXiv, 2023* [[code](https://github.com/alibaba/FederatedScope/tree/llm)]
 + [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://arxiv.org/abs/2204.05011)
   + **Yuexiang Xie\***, Zhen Wang\*, Daoyuan Chen, Dawei Gao, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou 
   + *In VLDB, 2023* [[code](https://github.com/alibaba/FederatedScope)]
@@ -33,9 +43,14 @@ Email: yuexiang.xyx AT alibaba-inc.com
 + [Source-Free Unsupervised Domain Adaptation for Question Answering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095248)
   + Zishuo Zhao, **Yuexiang Xie**, Jingyou Xie, Zhenzhou Lin, Yaliang Li, Ying Shen
   + *In ICASSP, 2023*
-+ [FS-Real: Towards Real-World Cross-Device Federated Learning](https://arxiv.org/pdf/2303.13363.pdf)
++ [FS-Real: A Real-World Cross-Device Federated Learning Platform](https://dl.acm.org/doi/abs/10.14778/3611540.3611617)
+  + Dawei Gao, Daoyuan Chen, Zitao Li, **Yuexiang Xie**, Xuchen Pan, Yaliang Li, Bolin Ding, Jingren Zhou
+  + *In VLDB Demo, 2023*
++ [Towards Real-World Cross-Device Federated Learning](https://arxiv.org/pdf/2303.13363.pdf)
   + Daoyuan Chen, Dawei Gao, **Yuexiang Xie**, Xuchen Pan, Zitao Li, Yaliang Li, Bolin Ding, Jingren Zhou
   + *In KDD, 2023*
+
+[2022]
 + [iFlood: A Stable and Effective Regularizer](https://openreview.net/forum?id=MsHnJPaBUZE)
   + **Yuexiang Xie**, Zhen Wang, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding
   + *In ICLR, 2022*
@@ -60,6 +75,8 @@ Email: yuexiang.xyx AT alibaba-inc.com
 + [A Benchmark for Federated Hetero-Task Learning](https://arxiv.org/abs/2206.03436)
   + Liuyi Yao, Dawei Gao, Zhen Wang, **Yuexiang Xie**, Weirui Kuang, Daoyuan Chen, Haohui Wang, Chenhe Dong, Bolin Ding, Yaliang Li
   + *arXiv, 2022* [[code](https://github.com/alibaba/FederatedScope/tree/master/benchmark/B-FHTL)]  
+
+[2021]
 + [Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation](https://aclanthology.org/2021.findings-emnlp.10/)
   + **Yuexiang Xie**, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding
   + *In EMNLP, 2021* [[code](https://github.com/xieyxclack/factual_coco)]  
@@ -72,6 +89,8 @@ Email: yuexiang.xyx AT alibaba-inc.com
 + [AutoML: From Methodology to Application](https://dl.acm.org/doi/abs/10.1145/3459637.3483279)
   + Yaliang Li, Zhen Wang, **Yuexiang Xie**, Bolin Ding, Kai Zeng, Ce Zhang 
   + *In CIKM Tutorial, 2021* [[website](https://www.cikm2021.org/programme/tutorials/automl-from-methodology-to-application)]  
+
+[2020 & before]
 + [Attentive User-Engaged Adversarial Neural Network for Community Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/6472)
   + **Yuexiang Xie**, Ying Shen, Yaliang Li, Min Yang, Kai Lei
   + *In AAAI, 2020*
@@ -93,7 +112,8 @@ Email: yuexiang.xyx AT alibaba-inc.com
 
 
 ### Program Committee Memberships
-+ NeurIPS'23, ICML'23, KDD'23
++ ICLR'24
++ NeurIPS'23, NeurIPS-B'23, ICML'23, KDD'23
 + NeurIPS'22, KDD'22
 + AAAI'21
-+ TNNLS
++ TNNLS, TBD
