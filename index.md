@@ -25,9 +25,9 @@ Email: yuexiang.xyx AT alibaba-inc.com
 ### Publications ([google scholar](https://scholar.google.com.hk/citations?user=fhWk0gEAAAAJ&hl=zh-CN), [dblp](https://dblp.org/pid/232/2045.html))
 
 [2023]
-+ Tunable Soft Prompts are Messengers in Federated Learning
++ [Tunable Soft Prompts are Messengers in Federated Learning](https://aclanthology.org/2023.findings-emnlp.976/)
   + Chenhe Dong\*, **Yuexiang Xie\***, Bolin Ding, Ying Shen, Yaliang Li
-  + *In EMNLP, 2023* 
+  + *In EMNLP, 2023* [[code](https://github.com/alibaba/FederatedScope/tree/fedsp/federatedscope/nlp/fedsp)]
 + [Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033)
   + Daoyuan Chen, Yilun Huang, Zhijian Ma, Hesen Chen, Xuchen Pan, Ce Ge, Dawei Gao, **Yuexiang Xie**, Zhaoyang Liu, Jinyang Gao, Yaliang Li, Bolin Ding, Jingren Zhou
   + *arXiv, 2023* [[code](https://github.com/alibaba/data-juicer)]
