@@ -1,19 +1,9 @@
 ###### &nbsp;
 
 # Yuexiang XIE  
-Alibaba DAMO Academy   
+Alibaba Group   
 Email: yuexiang.xyx AT alibaba-inc.com
 
-
-### Education
-
-+ M.S., 2017 - 2020, Computer Application Technology, Peking University. 
-+ B.S., 2013 - 2017, Software Engineering, Sun Yat-sen University.
-
-
-### Work Experiences
-
-+ July 2020 - Now, Alibaba DAMO Academy, Hang Zhou.
 
 ### Awards & Scholarships
 
@@ -111,9 +101,16 @@ Email: yuexiang.xyx AT alibaba-inc.com
   + *In KSEM, 2019*
 
 
+### Work Experiences
+
++ July 2020 - Now, Alibaba Group, Hang Zhou.
+
+
 ### Program Committee Memberships
-+ ICLR'24
++ ICLR'24, ICML'24, KDD'24, ARR'24 (Feb.)
 + NeurIPS'23, NeurIPS-B'23, ICML'23, KDD'23
 + NeurIPS'22, KDD'22
 + AAAI'21
 + TNNLS, TBD
+
+
