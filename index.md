@@ -10,14 +10,31 @@ Email: yuexiang.xyx AT alibaba-inc.com
 
 
 ### Publications ([google scholar](https://scholar.google.com.hk/citations?user=fhWk0gEAAAAJ&hl=zh-CN), [dblp](https://dblp.org/pid/232/2045.html))
+[2025]
++ [Agent-Oriented Planning in Multi-Agent Systems](https://openreview.net/forum?id=EqcLAU6gyU)
+  + Ao Li, **Yuexiang Xie**, Songze Li, Fugee Tsung, Bolin Ding, Yaliang Li
+  + *In ICLR, 2025* [[code](https://github.com/lalaliat/Agent-Oriented-Planning)]
++ [Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization](https://openreview.net/forum?id=CbfsKHiWEn)
+  + Junkang Wu, **Yuexiang Xie**, Zhengyi Yang, Jiancan Wu, Jiawei Chen, Jinyang Gao, Bolin Ding, Xiang Wang, Xiangnan He
+  + *In ICLR, 2025* [[code](https://github.com/junkangwu/Dr_DPO)]
++ [Knowledge Graph-Guided Retrieval Augmented Generation](https://arxiv.org/abs/2502.06864)
+  + Xiangrong Zhu, **Yuexiang Xie**, Yi Liu, Yaliang Li, Wei Hu 
+  + *In NAACL, 2025* [[code](https://github.com/nju-websoft/KG2RAG)]
++ [KIMAs: A Configurable Knowledge Integrated Multi-Agent System](https://arxiv.org/abs/2502.09596)
+  + Zitao Li\*, Fei Wei\*, **Yuexiang Xie\***, Dawei Gao, Weirui Kuang, Zhijian Ma, Bingchen Qian, Yaliang Li, Bolin Ding
+  + *arXiv, 2025*
++ [Language Adaptation of Large Language Models: An Empirical Study on LLaMA2](https://aclanthology.org/2025.coling-main.480/)
+  + Shumin Wang, **Yuexiang Xie**, Bolin Ding, Jinyang Gao, Yanyong Zhang
+  + *In COLING, 2025*
++ [Enhancing Factual Consistency in Text Summarization via Counterfactual Debiasing](https://aclanthology.org/2025.coling-main.530/)
+  + Zhenqing Ling, **Yuexiang Xie**, Chenhe Dong, Ying Shen
+  + *In COLING, 2025* [[code](https://github.com/lingzhq/CoFactSum)]
+
 
 [2024] 
 + [Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789)
   + Xuchen Pan, Dawei Gao, **Yuexiang Xie**, Yushuo Chen, Zhewei Wei, Yaliang Li, Bolin Ding, Ji-Rong Wen, Jingren Zhou
   + *arXiv, 2024* [[code](https://github.com/modelscope/agentscope)]
-+ [Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization](https://arxiv.org/abs/2407.07880)
-  + Junkang Wu, **Yuexiang Xie**, Zhengyi Yang, Jiancan Wu, Jiawei Chen, Jinyang Gao, Bolin Ding, Xiang Wang, Xiangnan He
-  + *arXiv, 2024* [[code](https://github.com/junkangwu/Dr_DPO)]
 + [$\beta$-DPO: Direct Preference Optimization with Dynamic $\beta$](https://arxiv.org/abs/2407.08639)
   + Junkang Wu, **Yuexiang Xie**, Zhengyi Yang, Jiancan Wu, Jinyang Gao, Bolin Ding, Xiang Wang, Xiangnan He
   + *In NeurIPS, 2024* [[code](https://github.com/junkangwu/beta-DPO)]
@@ -27,15 +44,12 @@ Email: yuexiang.xyx AT alibaba-inc.com
 + [Exploring Selective Layer Fine-Tuning in Federated Learning](https://arxiv.org/abs/2408.15600)
   + Yuchang Sun, **Yuexiang Xie**, Bolin Ding, Yaliang Li, Jun Zhang
   + *arXiv, 2024*
-+ [Agent-Oriented Planning in Multi-Agent Systems](https://arxiv.org/abs/2410.02189)
-  + Ao Li, **Yuexiang Xie**, Songze Li, Fugee Tsung, Bolin Ding, Yaliang Li
-  + *arXiv, 2024*
 + [Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033)
   + Daoyuan Chen, Yilun Huang, Zhijian Ma, Hesen Chen, Xuchen Pan, Ce Ge, Dawei Gao, **Yuexiang Xie**, Zhaoyang Liu, Jinyang Gao, Yaliang Li, Bolin Ding, Jingren Zhou
   + *In SIGMOD, 2024* [[code](https://github.com/alibaba/data-juicer)]
 + [Is Sharing Neighbor Generator in Federated Graph Learning Safe?](https://www.computer.org/csdl/journal/tk/5555/01/10721361/218NN0mXwSA)
   + Liuyi Yao, Zhen Wang, **Yuexiang Xie**, Yaliang Li, Weirui Kuang, Daoyuan Chen, Bolin Ding
-  + *In IEEE Transactions on Knowledge and Data Engineering, 2024*
+  + *In TKDE, 2024*
 + [FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning](https://arxiv.org/abs/2309.00363)
   + Weirui Kuang, Bingchen Qian, Zitao Li, Daoyuan Chen, Dawei Gao, Xuchen Pan, **Yuexiang Xie**, Yaliang Li, Bolin Ding, Jingren Zhou
   + *In KDD, 2024* [[code](https://github.com/alibaba/FederatedScope/tree/llm)]
