@@ -6,11 +6,20 @@ Email: yuexiang.xyx AT alibaba-inc.com
 
 ### Work Experiences
 
-+ July 2020 - Now, Alibaba Group, Hang Zhou.
++ July 2020 - Now, Alibaba Group, Hangzhou.
 
 
 ### Publications ([google scholar](https://scholar.google.com.hk/citations?user=fhWk0gEAAAAJ&hl=zh-CN), [dblp](https://dblp.org/pid/232/2045.html))
 [2025]
++ [On-Policy RL Meets Off-Policy Experts: Harmonizing Supervised Fine-Tuning and Reinforcement Learning via Dynamic Weighting](https://arxiv.org/pdf/2508.11408)
+  + Wenhao Zhang, **Yuexiang Xie**, Yuchang Sun, Yanxi Chen, Guoyin Wang, Yaliang Li, Bolin Ding, Jingren Zhou
+  + *arXiv, 2025* [[code](https://github.com/modelscope/Trinity-RFT/tree/main/examples/mix_chord)] 
++ [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](https://arxiv.org/pdf/2508.16279?)
+  + Dawei Gao, Zitao Li, **Yuexiang Xie**, Weirui Kuang, Liuyi Yao, Bingchen Qian, Zhijian Ma, Yue Cui, Haohao Luo, Shen Li, Lu Yi, Yi Yu, Shiqi He, Zhiling Luo, Wenmeng Zhou, Zhicheng Zhang, Xuguang He, Ziqian Chen, Weikai Liao, Farruh Isakulovich Kushnazarov, Yaliang Li, Bolin Ding, Jingren Zhou
+  + *arXiv, 2025* [[code](https://github.com/agentscope-ai/agentscope)]
++ [Trinity-rft: A general-purpose and unified framework for reinforcement fine-tuning of large language models](https://arxiv.org/pdf/2505.17826)
+  + Xuchen Pan, Yanxi Chen, Yushuo Chen, Yuchang Sun, Daoyuan Chen, Wenhao Zhang, **Yuexiang Xie**, Yilun Huang, Yilei Zhang, Dawei Gao, Weijie Shi, Yaliang Li, Bolin Ding, Jingren Zhou
+  + *arXiv, 2025* [[code][https://github.com/modelscope/Trinity-RFT]]
 + [Agent-Oriented Planning in Multi-Agent Systems](https://openreview.net/forum?id=EqcLAU6gyU)
   + Ao Li, **Yuexiang Xie**, Songze Li, Fugee Tsung, Bolin Ding, Yaliang Li
   + *In ICLR, 2025* [[code](https://github.com/lalaliat/Agent-Oriented-Planning)]
@@ -29,6 +38,12 @@ Email: yuexiang.xyx AT alibaba-inc.com
 + [Enhancing Factual Consistency in Text Summarization via Counterfactual Debiasing](https://aclanthology.org/2025.coling-main.530/)
   + Zhenqing Ling, **Yuexiang Xie**, Chenhe Dong, Ying Shen
   + *In COLING, 2025* [[code](https://github.com/lingzhq/CoFactSum)]
++ [Tree-based Models for Vertical Federated Learning: A Survey](https://arxiv.org/pdf/2504.02285)
+  + Bingchen Qian, **Yuexiang Xie**, Yaliang Li, Bolin Ding, Jingren Zhou
+  + *In ACM Computing Surveys, 2025*
++ [Comprehensive Evaluation and Analysis for NSFW Concept Erasure in Text-to-Image Diffusion Models](https://arxiv.org/pdf/2505.15450)
+  + Die Chen, Zhiwen Li, Cen Chen, **Yuexiang Xie**, Xiaodan Li, Jinyan Ye, Yingda Chen, Yaliang Li
+  + *In NeurIPS Datasets & Benchmarks Track, 2025*
 
 
 [2024] 
