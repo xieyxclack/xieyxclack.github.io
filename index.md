@@ -1,7 +1,7 @@
 ###### &nbsp;
 
 # Yuexiang XIE  
-Alibaba Group   
+Tongyi Lab, Alibaba Group   
 Email: yuexiang.xyx AT alibaba-inc.com
 
 ### Work Experiences
@@ -10,16 +10,27 @@ Email: yuexiang.xyx AT alibaba-inc.com
 
 
 ### Publications ([google scholar](https://scholar.google.com.hk/citations?user=fhWk0gEAAAAJ&hl=zh-CN), [dblp](https://dblp.org/pid/232/2045.html))
-[2025]
+[2026] 
 + [On-Policy RL Meets Off-Policy Experts: Harmonizing Supervised Fine-Tuning and Reinforcement Learning via Dynamic Weighting](https://arxiv.org/pdf/2508.11408)
   + Wenhao Zhang, **Yuexiang Xie**, Yuchang Sun, Yanxi Chen, Guoyin Wang, Yaliang Li, Bolin Ding, Jingren Zhou
-  + *arXiv, 2025* [[code](https://github.com/modelscope/Trinity-RFT/tree/main/examples/mix_chord)] 
+  + *In ICLR, 2026* [[code](https://github.com/modelscope/Trinity-RFT/tree/main/examples/mix_chord)]
++ [On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](https://arxiv.org/abs/2602.03392)
+  + Shumin Wang, **Yuexiang Xie**, Wenhao Zhang, Yuchang Sun, Yanxi Chen, Yaliang Li, Yanyong Zhang
+  + *In ICML, 2026*
++ [IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning](https://arxiv.org/abs/2602.03468)
+  + Haohao Luo, Zexi Li, **Yuexiang Xie**, Wenhao Zhang, Yaliang Li, Ying Shen
+  + *In ICML, 2026*
++ [Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://arxiv.org/abs/2601.01885)
+  + Yi Yu, Liuyi Yao, **Yuexiang Xie**, Qingquan Tan, Jiaqi Feng, Yaliang Li, Libing Wu
+  + *In ACL, 2026*
+
+[2025]
 + [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](https://arxiv.org/pdf/2508.16279?)
   + Dawei Gao, Zitao Li, **Yuexiang Xie**, Weirui Kuang, Liuyi Yao, Bingchen Qian, Zhijian Ma, Yue Cui, Haohao Luo, Shen Li, Lu Yi, Yi Yu, Shiqi He, Zhiling Luo, Wenmeng Zhou, Zhicheng Zhang, Xuguang He, Ziqian Chen, Weikai Liao, Farruh Isakulovich Kushnazarov, Yaliang Li, Bolin Ding, Jingren Zhou
   + *arXiv, 2025* [[code](https://github.com/agentscope-ai/agentscope)]
 + [Trinity-rft: A general-purpose and unified framework for reinforcement fine-tuning of large language models](https://arxiv.org/pdf/2505.17826)
   + Xuchen Pan, Yanxi Chen, Yushuo Chen, Yuchang Sun, Daoyuan Chen, Wenhao Zhang, **Yuexiang Xie**, Yilun Huang, Yilei Zhang, Dawei Gao, Weijie Shi, Yaliang Li, Bolin Ding, Jingren Zhou
-  + *arXiv, 2025* [[code][https://github.com/modelscope/Trinity-RFT]]
+  + *arXiv, 2025* [[code](https://github.com/modelscope/Trinity-RFT)]
 + [Agent-Oriented Planning in Multi-Agent Systems](https://openreview.net/forum?id=EqcLAU6gyU)
   + Ao Li, **Yuexiang Xie**, Songze Li, Fugee Tsung, Bolin Ding, Yaliang Li
   + *In ICLR, 2025* [[code](https://github.com/lalaliat/Agent-Oriented-Planning)]
@@ -43,7 +54,16 @@ Email: yuexiang.xyx AT alibaba-inc.com
   + *In ACM Computing Surveys, 2025*
 + [Comprehensive Evaluation and Analysis for NSFW Concept Erasure in Text-to-Image Diffusion Models](https://arxiv.org/pdf/2505.15450)
   + Die Chen, Zhiwen Li, Cen Chen, **Yuexiang Xie**, Xiaodan Li, Jinyan Ye, Yingda Chen, Yaliang Li
-  + *In NeurIPS Datasets & Benchmarks Track, 2025*
+  + *In NeurIPS Datasets & Benchmarks Track, 2025* [[code](https://github.com/ECNU-CILAB/ErasureBenchmark)]
++ [Parameter-Efficient Federated Knowledge Graph Embedding Learning and Unlearning](https://dl.acm.org/doi/10.1007/978-3-032-09527-5_25)
+  + Xiangrong Zhu, **Yuexiang Xie**, Yang Liu, Yaliang Li, Wei Hu
+  + *In International Semantic Web Conference (ISWC), 2025* [[code](https://github.com/nju-websoft/PFLU)]
++ [Enhancing Multimodal Retrieval via Complementary Information Extraction and Alignment](https://aclanthology.org/2025.acl-long.1073/)
+  + Delong Zeng, **Yuexiang Xie**, Yaliang Li, Ying Shen
+  + *In ACL, 2025* [[code](https://github.com/zengdlong/CIEA)]
++ [Exploring Selective Layer Fine-Tuning in Federated Learning](https://arxiv.org/abs/2408.15600)
+  + Yuchang Sun, **Yuexiang Xie**, Bolin Ding, Yaliang Li, Jun Zhang
+  + *In IEEE International Symposium on Information Theory (ISIT), 2025* [[code](https://github.com/hiyuchang/fed_sel_tune)]
 
 
 [2024] 
@@ -56,9 +76,6 @@ Email: yuexiang.xyx AT alibaba-inc.com
 + [Understanding Byzantine Robustness in Federated Learning with A Black-box Server](https://arxiv.org/abs/2408.06042)
   + Fangyuan Zhao, **Yuexiang Xie**, Xuebin Ren, Bolin Ding, Shusen Yang, Yaliang Li
   + *arXiv, 2024* [[code](https://github.com/alibaba/FederatedScope/tree/Byzantine_attack_defense)]
-+ [Exploring Selective Layer Fine-Tuning in Federated Learning](https://arxiv.org/abs/2408.15600)
-  + Yuchang Sun, **Yuexiang Xie**, Bolin Ding, Yaliang Li, Jun Zhang
-  + *arXiv, 2024*
 + [Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033)
   + Daoyuan Chen, Yilun Huang, Zhijian Ma, Hesen Chen, Xuchen Pan, Ce Ge, Dawei Gao, **Yuexiang Xie**, Zhaoyang Liu, Jinyang Gao, Yaliang Li, Bolin Ding, Jingren Zhou
   + *In SIGMOD, 2024* [[code](https://github.com/alibaba/data-juicer)]
